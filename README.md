@@ -1,5 +1,5 @@
-## Привет
-I am Algorithmic Computer Science student at Wroclaw University of Technology (PWR) since October 2023, pursuing an engineering degree. Interested in algorithmics and modern technologies such as Rust.
+## Salve 🟥🟨 
+I am an Algorithmic Computer Science student at Wroclaw University of Technology (PWR) since October 2023, pursuing an engineering degree. Interested in algorithmics and modern technologies such as Rust 🦀
 
 <!--
 **wojteq18/wojteq18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
